@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(54, 54, 54);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    display: flex;
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 10px;
+    left: 50px;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.about{
+    display: flex;
+    position: absolute;
+    color: black;
+    top: 20px;
+    left: 940px;
+}
+
+.portfolio{
+    display: flex;
+    position: absolute;
+    color: black;
+    top: 20px;
+    left: 1160px;
+}
+
+.contact{
+    display: flex;
+    position: absolute;
+    color: black;
+    top: 20px;
+    left: 1380px;
+}
+
+.main-text{
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+.mini-text{
+    display: flex;
+    position: absolute;
+    font-size: large;
+    top: 250px;
+    left: 200px;
+    font-weight: 600;
+}
+
+.text{
+    display: flex;
+    position: absolute;
+    left: -2px;
+    width: 800px;
+}
+
+.avatar > img{
+    display: flex;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 950px;
+    border-radius: 400px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.socials{
+    display: flex;
+    position: absolute;
+    top: 420px;
+    left: 410px;
+}
+
+.linkedin > img{
+    display: flex;
+    position: absolute;
+    /* border-radius: 50px; */
+    width: 55px;
+    height: 55px;
+    top: 520px;
+    left: 250px;
+}
+
+.telegram > img{
+    display: flex;
+    position: absolute;
+    border-radius: 55px;
+    top: 500px;
+    left: 450px;
+    width: 90px;
+    height: 90px;
+}
+
+.instagram > img{
+    display: flex;
+    position: absolute;
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    top: 520px;
+    left: 655px;
+}
+
+.mini-mini-text{
+    display: flex;
+    position: absolute;
+    font-size: medium;
+    font-weight: 800;
+    top: 720px;
+    left: 700px;
+}

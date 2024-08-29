@@ -1,0 +1,145 @@
+body{
+    background-color: rgb(54, 54, 54);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    display: flex;
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 10px;
+    left: 50px;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.about{
+    display: flex;
+    position: absolute;
+    color: black;
+    top: 20px;
+    left: 940px;
+}
+
+.portfolio{
+    display: flex;
+    position: absolute;
+    color: black;
+    top: 20px;
+    left: 1160px;
+}
+
+.contact{
+    display: flex;
+    position: absolute;
+    color: black;
+    top: 20px;
+    left: 1380px;
+}
+
+.about-text{
+    display: flex;
+    position: absolute;
+    font-size: 60px;
+    top: 80px;
+    left: 610px;
+}
+
+.card{
+    display: flex;
+    position: absolute;
+    top: 282px;
+    left: 210px;
+    width: 300px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.logo > img{
+    display: flex;
+    position: absolute;
+    top: 15px;
+    left: 55px;
+    height: 200px;
+    width: 200px;
+}
+
+.card-text > h3{
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: auto;
+    font-weight: 700;
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card1{
+    display: flex;
+    position: absolute;
+    top: 282px;
+    left: 610px;
+    width: 300px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.logo1 > img{
+    display: flex;
+    position: absolute;
+    top: -75px;
+    left: -45px;
+    height: 400px;
+    width: 400px;
+}
+
+.card-text1 > h3{
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: auto;
+    font-weight: 700;
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card2{
+    display: flex;
+    position: absolute;
+    top: 282px;
+    left: 1010px;
+    width: 300px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.logo2 > img{
+    display: flex;
+    position: absolute;
+    top: 15px;
+    left: 70px;
+    height: 180px;
+    width: 180px;
+}
+
+.card-text2 > h3{
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: auto;
+    font-weight: 700;
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
