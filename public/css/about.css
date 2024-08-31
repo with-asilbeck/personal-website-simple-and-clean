@@ -8,10 +8,19 @@ h1{
     position: absolute;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     top: 10px;
-    left: 50px;
+    left: 120px;
     font-weight: 900;
     font-size: xx-large;
     color: black;
+}
+
+.mini-logo > img{
+    display: flex;
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    top: -33px;
+    left: -18px;
 }
 
 .about{
@@ -43,7 +52,7 @@ h1{
     position: absolute;
     font-size: 60px;
     top: 80px;
-    left: 610px;
+    left: 660px;
 }
 
 .card{
@@ -94,10 +103,10 @@ h1{
 .logo1 > img{
     display: flex;
     position: absolute;
-    top: -75px;
-    left: -45px;
-    height: 400px;
-    width: 400px;
+    top: 15px;
+    left: 50px;
+    height: 200px;
+    width: 200px;
 }
 
 .card-text1 > h3{
@@ -106,7 +115,7 @@ h1{
     top: 200px;
     left: auto;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 18px;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -139,8 +148,16 @@ h1{
     top: 200px;
     left: auto;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 18px;
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+
+.footer-text{
+    display: flex;
+    position: absolute;
+    top: 800px;
+    left: 700px;
+    font-weight: 700;
 }
